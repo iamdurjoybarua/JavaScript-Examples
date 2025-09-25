@@ -63,9 +63,11 @@ numbers.forEach(number => {
 });
 
 // Output: The total sum is: 50
+```
 
+---
 
-## Author
+## 👤 Author
 
 Durjoy Barua / https://github.com/iamdurjoybarua
 
